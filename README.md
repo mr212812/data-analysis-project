@@ -21,6 +21,11 @@ This project contains an Excel dashboard based on the Europe Bike Sales dataset.
 - Analyzed revenue distribution across different age brackets and genders.
 - Displayed top-selling bike models by total sales volume.
 - Tracked yearly revenue trends to spot performance patterns over time.
+  
+## How to Use
+- Download the Excel file [Europe_Bike_Sales_Dashboard.xlsx](Europe_Bike_Sales_Dashboard.xlsx).
+- Open it in Microsoft Excel.
+- Explore the dashboard and interact with the slicers and filters.
 
 ## Screenshot
 
