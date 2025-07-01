@@ -33,6 +33,25 @@ This project contains an Excel dashboard based on the Europe Bike Sales dataset.
 
 [Click here to view the dashboard screenshot](DASHBOARD-SCREENSHOT.png)
 
-## Author
+ 
+---
 
-*Manvi* | Aspiring Data Analyst
+## 🩺 Breast Cancer Analysis Dashboard
+
+This project showcases an Excel dashboard analyzing a breast cancer dataset using:
+
+- 🎯 Pivot Tables & Slicers for interactive filtering  
+- 📊 Tumor size analysis by diagnosis (Benign vs Malignant)  
+- 🧮 Summary cards for total patients, malignant, and benign cases  
+- 🟪 Histogram-style bucket analysis for radius and area  
+- 💖 Breast cancer awareness–themed pink layout
+
+### 🔗 Files Included:
+- [Breast_Cancer_Analysis_Dashboard.xlsx](Breast_Cancer_Analysis_Dashboard.xlsx)
+- ![Breast Cancer Dashboard Screenshot](breast-cancer-dashboard.png)
+
+### 🛠 Tools Used:
+Microsoft Excel | Pivot Tables | Charts | Slicers | Conditional Formatting
+
+## Author
+*Manvi Rana* | Aspiring Data Analyst 
