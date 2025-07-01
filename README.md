@@ -48,7 +48,7 @@ This project showcases an Excel dashboard analyzing a breast cancer dataset usin
 
 ### 🔗 Files Included:
 - [Breast_Cancer_Analysis_Dashboard.xlsx](Breast_Cancer_Analysis_Dashboard.xlsx)
-- ![Breast Cancer Dashboard Screenshot](breast-cancer-dashboard.png)
+- ![Breast Cancer Dashboard Screenshot https://github.com/mr212812/data-analysis-project/blob/main/breast_cancer%20dashboard%20screenshot.png
 
 ### 🛠 Tools Used:
 Microsoft Excel | Pivot Tables | Charts | Slicers | Conditional Formatting
