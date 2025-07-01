@@ -47,8 +47,8 @@ This project showcases an Excel dashboard analyzing a breast cancer dataset usin
 - 💖 Breast cancer awareness–themed pink layout
 
 ### 🔗 Files Included:
-- [Breast_Cancer_Analysis_Dashboard.xlsx](Breast_Cancer_Analysis_Dashboard.xlsx)
-- ![Breast Cancer Dashboard Screenshot https://github.com/mr212812/data-analysis-project/blob/main/breast_cancer%20dashboard%20screenshot.png
+- [Breast_Cancer_Analysis_Dashboard.xlsx] https://github.com/mr212812/data-analysis-project/blob/main/breast_cancer_analysis_dashboard.xlsx
+- [Breast Cancer Dashboard Screenshot https://github.com/mr212812/data-analysis-project/blob/main/breast_cancer%20dashboard%20screenshot.png
 
 ### 🛠 Tools Used:
 Microsoft Excel | Pivot Tables | Charts | Slicers | Conditional Formatting
